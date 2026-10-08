@@ -13,6 +13,7 @@ I keep agent rules, skills, and tool configs versioned alongside the code that s
 - Small local AI agents on open-weight models, including a read-only browser agent that extracts flight and passenger details with GLiNER2. No API keys or hosted inference.
 - Cloudflare Workers experiments, including creating Git repos through Cloudflare Artifacts.
 - My personal site and blog, built with Astro.
+- Running a tiny trading desk with two AI coworkers. One hunts for ideas, the other checks live prices and handles orders, and I make the calls. They pass notes through a shared Markdown inbox, challenge each other's ideas, and write postmortems even for trades we never made. Apparently, even my side projects need a research department.
 
 ## A bit about me
 

@@ -8,12 +8,12 @@ I keep agent rules, skills, and tool configs versioned alongside the code that s
 
 **Lately, I've been working on**
 
-- Getting Claude Code, Codex, and OpenCode working together through Paseo and Herdr.
-- A reproducible Mac setup with nix-darwin and home-manager: one command to configure a fresh Mac.
-- Small local AI agents on open-weight models, including a read-only browser agent that extracts flight and passenger details with GLiNER2. No API keys or hosted inference.
-- Cloudflare Workers experiments, including creating Git repos through Cloudflare Artifacts.
-- My personal site and blog, built with Astro.
-- Running a tiny trading desk with two AI coworkers. One hunts for ideas, the other checks live prices and handles orders, and I make the calls. They pass notes through a shared Markdown inbox, challenge each other's ideas, and write postmortems even for trades we never made. Apparently, even my side projects need a research department.
+- Building an agent-run trading desk, with a committee to challenge ideas and a kill switch to enforce limits. Even my side projects need a research department.
+- Getting Claude Code, Codex, and OpenCode working together through Paseo and Herdr: one agent plans and reviews, workers build.
+- A reproducible Mac setup with nix-darwin and home-manager. One command, fresh Mac, all my tools and agent configs in place.
+- Small local AI agents, including a browser agent that reads booking details with GLiNER2. No API keys, no hosted inference.
+- Cloudflare Workers experiments, including a Worker that creates Git repos through Cloudflare Artifacts.
+- My personal site and blog, built with Astro. A place to share what I'm building and thinking about.
 
 ## A bit about me
 

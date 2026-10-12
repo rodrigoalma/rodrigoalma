@@ -1,4 +1,4 @@
-# Hi, I'm Rodrigo 🌮
+# Hi, I'm Rodrigo 
 
 I like building things, breaking things, and talking about technology.
 
